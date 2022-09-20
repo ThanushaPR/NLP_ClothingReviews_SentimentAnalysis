@@ -24,5 +24,6 @@ Department Name: Categorical name of the product department name.
 
 Class Name: Categorical name of the product class name.
 
-
+**
 This analysis will focus on using Natural Language techniques to find broad trends in the written thoughts of the customers. The goal is to predict whether customers recommend the product they purchased using the information in their review text.
+**
